@@ -1,5 +1,5 @@
 {
-  "name": "fz-tailwind-components",
+  "name": "fz-ng-tailwind-components",
   "version": "0.0.1",
   "peerDependencies": {
     "@angular/common": "^18.2.0",
